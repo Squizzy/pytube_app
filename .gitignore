@@ -1,0 +1,5 @@
+*.webm
+*.mp4
+temp/
+.mypy_cache
+__pycache__
